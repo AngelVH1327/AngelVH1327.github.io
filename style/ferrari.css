@@ -1,0 +1,56 @@
+h2 {
+    color: #f37a48; /* Naranja McLaren */
+    text-align: center;
+  }
+  
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ccc; /* Agrega un borde inferior */
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.formula {
+    width: 100px;
+    height: auto;
+}
+
+.redbull, .mclaren, .ferrari{
+    width: 50px;
+    height: auto;
+    
+}
+
+.redbull{
+    padding-left: 1250px;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ccc; /* Agrega un borde inferior */
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+    height: 50px;
+}
+
+  
+img {
+    float: left; /* Hace que la imagen flote a la izquierda */
+    margin-right: 20px; /* Añade un margen derecho a la imagen */
+}
+  
+.auto{
+    text-align: center;
+    padding-left: 340px;
+}
+video{
+    padding-left: 650px;
+    margin: auto;
+    height: 600px;
+}
